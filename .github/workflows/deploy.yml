@@ -7,7 +7,7 @@ name: Publish and share Kedro Viz
 on:
   push:
     branches:
-      - san-juan-islands
+      - main
   workflow_dispatch:
 
 jobs:
