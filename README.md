@@ -2,6 +2,10 @@
 
 This project is an attempt to use Kedro to model [Polis](https://pol.is/home)-like data pipelines.
 
+About the repo:
+
+This repo is a test of creating a geographic projection, based on responses to some statements. Scripts and code convert votes for "I live on island X" to a geographic projection extracted from OpenStreetMap. The code that extracted the boundaries was: https://overpass-turbo.eu/s/2dvr
+
 ## Background
 
 Polis is a collective intelligence tool for collecting simple agree/disagree data and from that
